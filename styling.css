@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    border: thin solid black;
+    padding: 50px;
     background: pink;
     text-align: center;
 }
