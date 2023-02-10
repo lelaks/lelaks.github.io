@@ -1,12 +1,12 @@
 body {
     background-color: pink;
+    text-align: center;
 }
 .content {
-    background-color: #323232;
-    color: #ffffff;
-    width: 750px;
+    width: 500px;
+    background-color: #ffffff;
+    color: #000000;
     margin: auto;
     padding: 25px 50px;
     border: thin solid black;
-    text-align: center;
 }
